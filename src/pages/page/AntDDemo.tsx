@@ -1,4 +1,4 @@
-import AntdDemoAll from "../components/AntdDemoAll";
+import AntdDemoAll from "@/components/AntdDemoAll";
 
 const AntDDemo = () =>{
     return <AntdDemoAll />
